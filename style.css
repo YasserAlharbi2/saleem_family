@@ -5,7 +5,9 @@
 
 .header{
     background-color: #4d2b11;
-    height: 70px;
+    width: 50%;
+    height: 10%;
+    margin: 0 auto;
     border-bottom-left-radius: 100%;
     border-bottom-right-radius: 100%;
 }
