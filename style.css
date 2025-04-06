@@ -11,6 +11,7 @@ display:flex;
 
 .header{
     height:7vh;
+    margin: 0 auto;
     background-color: #4d2b11;
     border-bottom-left-radius: 100%;
     border-bottom-right-radius: 100%;
